@@ -1,0 +1,77 @@
+# Geometría Diferencial 2026
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2018%2F01%2F17%2F23%2F43%2Ftriangle-3089267__480.png&f=1&nofb=1&ipt=9ac2b334637c6cb34fcef1ab841c12b200d821cb1d12706ec0d9c2acf663bfb0
+" alt="Alt Text" height="100">
+
+Este es un curso introductorio de geometría diferencial. El tema central del curso es el estudio de la geometría de curvas y superfícies, así como una breve inicio al estudio de la geometría de variedades. Al final del curso, los estudiantes comprederán completamente, la teoría de las curvas y superfícies, y el desarrollo de la geometría diferencial hasta la mitad el siglo XIX. Introduciremos también algunos conceptos de la geometría de variedades diferenciables y un poco de cálculo sobre variedades. Si el tiempo lo permite, al final del curso se hará una aplicación de cómo la geometría diferencial se utiliza en la teoría de relatividad general. 
+
+Para aprovechar de mejor manera el curso, es recomendable que los estudiantes estén familiarizados con resultados de análisis real (en una y varias variables), topología de espacios métricos, ecuaciones diferenciales, variable compleja y que tengan un dominio hábil de herramientas de álgebra lineal y cálculo.
+
+# Programa del curso
+<div id='id-programa'/>
+
+[Programa del curso](programa/Programa-gd2026.pdf){:target="_blank"}
+
+### Horario
+<div id='id-horario'/>
+
+* Martes y jueves, de 17:20 a 18:55 horas.
+
+### Office Hours
+<div id='id-office'/>
+
+* Por definir. Por solicitud del estudiante. También pueden enviar sus dudas por correo electrónico.
+
+
+# Material del curso
+<div id='id-material'/>
+
+**No.**  | **Fecha**    | **Tópicos**                                                          | **Recursos**
+-------- | ------------ | -------------------------------------------------------------------- |  -------------------------------------
+01       | 13.01.2026   | Inicio del curso.                                                    |  
+
+
+# Seminarios
+<div id='id-semi'/>
+
+En este curso se trabajarán 2 seminarios o proyectos de investigación, los cuales serán indicados más adelante. 
+
+
+# Referencias
+<div id='id-ref'/>
+
+### Textos:
+
+* [W. Kühnel (2015). *Differential Geometry: Curves - Surfaces - Manifolds*.](https://libgen.li/ads53e1f3479cbdf2fb78addd478e32bb89HXFDNM20){:target="_blank"}
+
+* [M. do Carmo (2018). *Differential Geometry of curves and surfaces*.](https://libgen.li/ads724bef18b14e016e0f3c4826c34da139VM8NBD26){:target="_blank"}
+
+### Referencias adicionales:
+
+* [M. do Carmo (2015). *Riemannian Geometry*.](https://libgen.li/ads2a938529e2395b0bc754aaaa3555d03bDYOKNUIG){:target="_blank"}
+
+* [S. Montiel y A. Ros (2009). *Curves and Surfaces*.](https://libgen.li/ads5e83ba8d8e78656ca0a52245663faeafAZKH46KI){:target="_blank"}
+
+* [B. O'neill (2006). *Elementary Differential Geometry*.](https://libgen.li/ads28060ef7e136181d96ed01f7a5a05e5dJ3K61MIY){:target="_blank"}
+
+* [M. Spivak (2018). *Calculus on Manifolds: A modern approach*.](https://libgen.li/adsea5fd5aeb32c27c227649eb88448dac1K70DWZ2B){:target="_blank"}
+
+* [M. do Carmo (2000). *Differential Forms and Applications*.](https://libgen.li/adsc205f32c8f131cfbcc3ec133093fa056FUD6VVL9){:target="_blank"}
+
+* [L. Tu (2011). *An Introduction to Manifolds*.](https://libgen.li/ads67e1de09798bbb7a9ec6cb30f67fa582KWZHBC8Z){:target="_blank"}
+
+* [J. M. Lee (2013). *Introduction to Topological Manifolds*.](https://libgen.li/adse1c4a1720315f49a2ba40f5c9c959430CX20PQBP){:target="_blank"}
+
+* [J. M. Lee (2013). *Introduction to Smooth Manifolds*.](http://library.lol/main/00D8D81EDF732351D00BF90D16231216){:target="_blank"}
+
+* [J. M. Lee (2018). *Introduction to Riemmanian Manifolds*.](http://library.lol/main/FDE4E270BF68DEA8EC92CCD1D739FBED){:target="_blank"}
+
+* [W. Kelley, A. Peterson (2010). *The Theory of Differential Equations*.](https://libgen.li/ads6cc3b361d2f1430322de2e6379262779IKX4KDZ7){:target="_blank"}
+
+### Artículos:
+
+* [S. Walters (2016). *How Einstein Got His Field Equations*.](https://arxiv.org/pdf/1608.05752.pdf){:target="_blank"}
+
+* [A. Pe'er (2014). *Einstein’s field equation*.](http://www.physics.ucc.ie/apeer/PY4112/Einstein.pdf){:target="_blank"}
+
+---
