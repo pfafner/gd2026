@@ -30,7 +30,7 @@ Para aprovechar de mejor manera el curso, es recomendable que los estudiantes es
 
 **No.**  | **Fecha**    | **Tópicos**                                                          | **Recursos**
 -------- | ------------ | -------------------------------------------------------------------- |  -------------------------------------
-01       | 13.01.2026   | Inicio del curso.                                                    |  
+01       | 15.01.2026   | Inicio del curso.                                                    |  
 
 
 # Seminarios
