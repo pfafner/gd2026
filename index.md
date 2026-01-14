@@ -1,10 +1,5 @@
 # Geometría Diferencial 2026
 
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.pixabay.com%2Fphoto%2F2018%2F01%2F17%2F23%2F43%2Ftriangle-3089267__480.png&f=1&nofb=1&ipt=9ac2b334637c6cb34fcef1ab841c12b200d821cb1d12706ec0d9c2acf663bfb0
-" alt="Alt Text" height="90">
-*This site is under construction!!*
-
-
 Este es un curso introductorio de geometría diferencial. El tema central del curso es el estudio de la geometría de curvas y superfícies, así como una breve inicio al estudio de la geometría de variedades. Al final del curso, los estudiantes comprederán completamente, la teoría de las curvas y superfícies, y el desarrollo de la geometría diferencial hasta la mitad el siglo XIX. Introduciremos también algunos conceptos de la geometría de variedades diferenciables y un poco de cálculo sobre variedades. Si el tiempo lo permite, al final del curso se hará una aplicación de cómo la geometría diferencial se utiliza en la teoría de relatividad general. 
 
 Para aprovechar de mejor manera el curso, es recomendable que los estudiantes estén familiarizados con resultados de análisis real (en una y varias variables), topología de espacios métricos, ecuaciones diferenciales, variable compleja y que tengan un dominio hábil de herramientas de álgebra lineal y cálculo.
@@ -73,7 +68,5 @@ En este curso se trabajarán 2 seminarios o proyectos de investigación, los cua
 ### Artículos:
 
 * [S. Walters (2016). *How Einstein Got His Field Equations*.](https://arxiv.org/pdf/1608.05752.pdf){:target="_blank"}
-
-* [A. Pe'er (2014). *Einstein’s field equation*.](http://www.physics.ucc.ie/apeer/PY4112/Einstein.pdf){:target="_blank"}
 
 ---
