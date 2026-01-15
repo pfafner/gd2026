@@ -25,8 +25,7 @@ Para aprovechar de mejor manera el curso, es recomendable que los estudiantes es
 
 **No.**  | **Fecha**    | **Tópicos**                                                          | **Recursos**
 -------- | ------------ | -------------------------------------------------------------------- |  -------------------------------------
-01       | 15.01.2026   | Inicio del curso.                                                    |  
-
+01       | 15.01.2026   | Introducción al curso. Historia de la geometría diferencial. | [(D. J. Struik) Outline of History of Differential Geometry I](lectures/struik1933_I.pdf){:target="_blank"} <br/> [(D. J. Struik) Outline of History of Differential Geometry II](lectures/struik1933_II.pdf){:target="_blank"} 
 
 # Seminarios
 <div id='id-semi'/>
