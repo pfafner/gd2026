@@ -29,7 +29,8 @@ Para aprovechar de mejor manera el curso, es recomendable que los estudiantes es
 02       | 20.01.2026   | Curvas parametrizadas. Longitud de arco. [Aula 02](aulas/Aula02.pdf){:target="_blank"} | Do Carmo, sección 1.2. <br/> Kühnel, sección 2A, pp. 7–11. 
 03       | 22.01.2026   | Difeomorfismos. Parametrización por longitud de arco. [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Do Carmo, sección 1.3. <br/> Kühnel, sección 2A, pp. 7–11. 
 04       | 27.01.2026   | Teoría local de curvas. Curvatura en R^2 y R^3. | Do Carmo, sección 1.5. <br/> Kühnel, sección 2B. <br/> [toroidal_curve.ggb](code/toroidal_curve.ggb){:target="_blank"}  
-05       | 29.01.2026   | Referencial de Frenet. Forma canónica local. Curvaturas generalizadas en R^n.  | Do Carmo, sección 1.5. <br/> Kühnel, sección 2B. 
+05       | 29.01.2026   | Referencial de Frenet. Forma canónica local. Curvaturas generalizadas en R^n.  | Kühnel, secciones 2C y 2D.
+
 
 # Seminarios
 <div id='id-semi'/>
