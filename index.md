@@ -31,6 +31,8 @@ Para aprovechar de mejor manera el curso, es recomendable que los estudiantes es
 04       | 27.01.2026   | Teoría local de curvas. Curvatura en R^2 y R^3. [Aula 04a](aulas/Aula04a.pdf){:target="_blank"} [Aula 04b](aulas/Aula04b.pdf){:target="_blank"} | Do Carmo, sección 1.5. <br/> Kühnel, sección 2B. <br/> [toroidal_curve.ggb](code/toroidal_curve.ggb){:target="_blank"}  
 05       | 29.01.2026   | Referencial de Frenet. Forma canónica local. Curvaturas generalizadas en R^n. [Aula 05](aulas/Aula05.pdf){:target="_blank"} | Kühnel, secciones 2C y 2D.
 L1       | 31.01.2026   | Lista 01. |  [Lista 01](listas/Lista01.pdf){:target="_blank"} <br/> **Entrega: martes 17 de febrero.**
+06       | 03.02.2026   | Transformaciones rígidas en Rn. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | 
+07       | 03.02.2026   | El Teorema Fundamental de las curvas planas. [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28–32. 
 
 
 # Seminarios
