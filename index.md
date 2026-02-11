@@ -35,7 +35,7 @@ L1       | 31.01.2026   | Lista 01. |  [Lista 01](listas/Lista01.pdf){:target="_
 07       | 03.02.2026   | El Teorema Fundamental de las curvas planas. [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28–32. 
 08       | 05.02.2026   | El Teorema Fundamental de las curvas en R^3.  | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28–32. 
 09       | 10.02.2026   | Curvas en el espacio de Minkowski.  |   
-
+10       | 10.02.2026   | Propiedades globales de curvas planas: La desigualdad isoperimétrica. |  
 
 
 # Seminarios
