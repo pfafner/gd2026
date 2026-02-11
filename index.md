@@ -34,6 +34,8 @@ L1       | 31.01.2026   | Lista 01. |  [Lista 01](listas/Lista01.pdf){:target="_
 06       | 03.02.2026   | Transformaciones rígidas en Rn. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} | 
 07       | 03.02.2026   | El Teorema Fundamental de las curvas planas. [Aula 07](aulas/Aula07.pdf){:target="_blank"} | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28–32. 
 08       | 05.02.2026   | El Teorema Fundamental de las curvas en R^3.  | Do Carmo, sección 1.6. <br/> Kühnel, sección 2D, pp. 28–32. 
+09       | 10.02.2026   | Curvas en el espacio de Minkowski.  |   
+
 
 
 # Seminarios
