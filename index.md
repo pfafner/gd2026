@@ -37,6 +37,7 @@ L1       | 31.01.2026   | Lista 01. |  [Lista 01](listas/Lista01.pdf){:target="_
 09       | 10.02.2026   | Curvas en el espacio de Minkowski.  |   
 10       | 10.02.2026   | Propiedades globales de curvas planas: La desigualdad isoperimétrica.  |  
 11       | 12.02.2026   | Índice de rotación. El teorema de Fenchel. Teorema de Fabricius-Bjerre.  |  
+12       |  |   |  
 
 
 # Seminarios
