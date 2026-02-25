@@ -38,7 +38,7 @@ L1       | 31.01.2026   | Lista 01. |  [Lista 01](listas/Lista01.pdf){:target="_
 10       | 10.02.2026   | Propiedades globales de curvas planas: La desigualdad isoperimétrica.  |  
 11       | 12.02.2026   | Índice de rotación. El teorema de Fenchel. Teorema de Fabricius-Bjerre.  |  
 12       | 19.02.2026   | El Teorema de los 4 vértices. Fórmula dde Cauchy-Crofton.  |  
-L2       | 24.02.2026   | Lista 02. |  [Lista 02](listas/Lista02.pdf){:target="_blank"} <br/> **Entrega: .**
+L2       | 24.02.2026   | Lista 02. |  [Lista 02](listas/Lista02.pdf){:target="_blank"} <br/> **Entrega: martes 10 de marzo.**
 
 
 # Seminarios
