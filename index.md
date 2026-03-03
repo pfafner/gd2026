@@ -41,6 +41,7 @@ L1       | 31.01.2026   | Lista 01. |  [Lista 01](listas/Lista01.pdf){:target="_
 L2       | 24.02.2026   | Lista 02. |  [Lista 02](listas/Lista02.pdf){:target="_blank"} <br/> **Entrega: martes 10 de marzo.**
 13       | 24.02.2026   | Superficies regulares.  |  
 14       | 26.02.2026   | Ejemplos de superficies regulares. |  
+15       | 03.03.2026   | Teorema de la función inversa. Superficies son localmente gráficas. Valores regulares. |  
 
 
 # Seminarios
