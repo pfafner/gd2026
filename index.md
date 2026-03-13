@@ -44,6 +44,7 @@ L2       | 24.02.2026   | Lista 02. |  [Lista 02](listas/Lista02.pdf){:target="_
 15       | 03.03.2026   | Teorema de la Función Inversa. Superficies son localmente gráficas. |  
 16       | 05.03.2026   | Valores regulares de funciones diferenciables. | 
 17       | 10.03.2026   | Funciones diferenciables en superficies. | 
+18       | 12.03.2026   | Derivadas. El plano tangente. | 
 
 
 # Seminarios
