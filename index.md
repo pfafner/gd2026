@@ -45,6 +45,7 @@ L2       | 24.02.2026   | Lista 02. |  [Lista 02](listas/Lista02.pdf){:target="_
 16       | 05.03.2026   | Valores regulares de funciones diferenciables. | 
 17       | 10.03.2026   | Funciones diferenciables en superficies. | 
 18       | 12.03.2026   | Derivadas. El plano tangente. | 
+L3       | 16.03.2026   | Lista 03. |  [Lista 03](listas/Lista03.pdf){:target="_blank"} <br/> **Entrega: jueves 26 de marzo.**
 
 
 # Seminarios
