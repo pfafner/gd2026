@@ -47,7 +47,8 @@ L2       | 24.02.2026   | Lista 02. |  [Lista 02](listas/Lista02.pdf){:target="_
 18       | 12.03.2026   | Derivadas. El plano tangente. | 
 L3       | 16.03.2026   | Lista 03. |  [Lista 03](listas/Lista03.pdf){:target="_blank"} <br/> **Entrega: jueves 26 de marzo.**
 19       | 17.03.2026   | Orientabilidad en Rn. Orientabilidad de superficies. | 
-20       | 19.03.2026   | Ejemplo de una superficie no orientable.         |  
+20       | 19.03.2026   | Caracterizaciones de la oritentabilidad.  | 
+21       | 24.03.2026   | Resolución de dudas Listas 3. Ejemplo de una superficie no orientable.   |  
 
 
 # Seminarios
