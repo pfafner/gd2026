@@ -48,8 +48,8 @@ L2       | 24.02.2026   | Lista 02. |  [Lista 02](listas/Lista02.pdf){:target="_
 L3       | 16.03.2026   | Lista 03. |  [Lista 03](listas/Lista03.pdf){:target="_blank"} <br/> **Entrega: jueves 26 de marzo.**
 19       | 17.03.2026   | Orientabilidad en Rn. Orientabilidad de superficies. | 
 20       | 19.03.2026   | Caracterizaciones de la oritentabilidad.  | 
-21       | 24.03.2026   | Resolución de dudas Listas 3. Ejemplo de una superficie no orientable.   |  
-22       | 26.03.2026   | Solución de ejercicios. | 
+21       | 24.03.2026   | Ejemplo de una superficie no orientable.   |  
+22       | 26.03.2026   | Solución de ejercicios Lista 3. | 
 P1       | 26.03.2026   | Examen Parcial 1. |  [Parcial 1](listas/Parcial1.pdf){:target="_blank"} <br/> **Entrega: jueves 09 de abril.**
 
 
