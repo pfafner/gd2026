@@ -51,7 +51,8 @@ L3       | 16.03.2026   | Lista 03. |  [Lista 03](listas/Lista03.pdf){:target="_
 21       | 24.03.2026   | Ejemplo de una superficie no orientable.   |  
 22       | 26.03.2026   | Solución de ejercicios Lista 3. | 
 P1       | 26.03.2026   | Examen Parcial 1. |  [Parcial 1](listas/Parcial1.pdf){:target="_blank"} <br/> **Entrega: jueves 09 de abril.**
-23       |              |   |   
+23       | 07.04.2026   | Primera forma fundamental.   |   
+24       | 09.04.2026   | Solución del Primer Examen Parcial.  |   
 
 
 # Seminarios
