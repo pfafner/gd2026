@@ -54,6 +54,7 @@ P1       | 26.03.2026   | Examen Parcial 1. |  [Parcial 1](listas/Parcial1.pdf){
 23       | 07.04.2026   | Primera forma fundamental.   |   
 24       | 09.04.2026   | Solución del Primer Examen Parcial.  |   
 25       | 14.04.2026   | Isometría e isometría local. Áreas en superficies.  |   
+26       | 16.04.2026   | Prueba de la fórmula del área. Ejemplos.  |   
 
 
 # Seminarios
