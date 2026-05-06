@@ -56,6 +56,9 @@ P1       | 26.03.2026   | Examen Parcial 1. |  [Parcial 1](listas/Parcial1.pdf){
 25       | 14.04.2026   | Isometría e isometría local. Áreas en superficies.  |   
 26       | 16.04.2026   | Prueba de la fórmula del área. Ejemplos.  |   
 27       | 21.04.2026   | La aplicación de Gauss. Segunda forma fundamental. |  
+28       | 23.04.2026   | Curvaturas principales. Indicatriz de Dupin.  |  
+29       | 30.04.2026   | Curvatura media y curvatura de Gauss. Ejemplos. |  
+30       | 05.05.2026   | El problema de Plateau. Superficies mínimas. Coordenadas isotérmicas. |  
 
 
 # Seminarios
