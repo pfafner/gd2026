@@ -59,7 +59,10 @@ P1       | 26.03.2026   | Examen Parcial 1. |  [Parcial 1](listas/Parcial1.pdf){
 28       | 23.04.2026   | Curvaturas principales. Indicatriz de Dupin.  |  
 29       | 30.04.2026   | Curvatura media y curvatura de Gauss. Ejemplos. |  
 30       | 05.05.2026   | El problema de Plateau. Superficies mínimas. Coordenadas isotérmicas. |  
+30       | 07.05.2026   | Caracterización por coordenadas armónicas. Representación de Enneper-Weierstrass |  
+30       | 05.05.2026   | El problema de Plateau. Superficies mínimas. Coordenadas isotérmicas. |  
 
+L3       | 16.03.2026   | Lista 03. |  [Lista 03](listas/Lista03.pdf){:target="_blank"} <br/> **Entrega: jueves 26 de marzo.**
 
 # Seminarios
 <div id='id-semi'/>
