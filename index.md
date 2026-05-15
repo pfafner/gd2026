@@ -57,12 +57,15 @@ P1       | 26.03.2026   | Examen Parcial 1. |  [Parcial 1](listas/Parcial1.pdf){
 26       | 16.04.2026   | Prueba de la fórmula del área. Ejemplos.  |   
 27       | 21.04.2026   | La aplicación de Gauss. Segunda forma fundamental. |  
 28       | 23.04.2026   | Curvaturas principales. Indicatriz de Dupin.  |  
-29       | 30.04.2026   | Curvatura media y curvatura de Gauss. Ejemplos. |  
-30       | 05.05.2026   | El problema de Plateau. Superficies mínimas. Coordenadas isotérmicas. |  
-30       | 07.05.2026   | Caracterización por coordenadas armónicas. Representación de Enneper-Weierstrass |  
-30       | 05.05.2026   | El problema de Plateau. Superficies mínimas. Coordenadas isotérmicas. |  
+29       | 28.04.2026   | Curvatura media y curvatura de Gauss. Ejemplos. |  
+30       | 30.04.2026   | El problema de Plateau. Superficies mínimas. Coordenadas isotérmicas. |  
+31       | 05.05.2026   | Caracterización por coordenadas armónicas. Representación de Enneper-Weierstrass |  
+32       | 07.05.2026   | Superfícies regladas. Superficies de revolución. | Do Carmo, sección 3.4.  
+33       | 07.05.2026   | Superfícies en el espacio de Minkowski. | Kühnel, sección 3E. 
+34       | 12.05.2026   | Geometría intrínseca de superficies. Símbolos de Christoffel. | Do Carmo, sección 4.3. <br/> Kühnel, sección 4C.
+33       | 14.05.2026   | Teorema *Egregium*. Teorema de Bonnet. Cálculo de símbolos de Christoffel.| 
+L4       | 14.05.2026   | Lista 04. |  [Lista 04](listas/Lista04.pdf){:target="_blank"} <br/> **Entrega: jueves 28 de mayo.**
 
-L3       | 16.03.2026   | Lista 03. |  [Lista 03](listas/Lista03.pdf){:target="_blank"} <br/> **Entrega: jueves 26 de marzo.**
 
 # Seminarios
 <div id='id-semi'/>
