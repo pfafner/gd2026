@@ -63,8 +63,9 @@ P1       | 26.03.2026   | Examen Parcial 1. |  [Parcial 1](listas/Parcial1.pdf){
 32       | 07.05.2026   | Superfícies regladas. Superficies de revolución. | Do Carmo, sección 3.4.  
 33       | 07.05.2026   | Superfícies en el espacio de Minkowski. | Kühnel, sección 3E. 
 34       | 12.05.2026   | Geometría intrínseca de superficies. Símbolos de Christoffel. | Do Carmo, sección 4.3. <br/> Kühnel, sección 4C.
-33       | 14.05.2026   | Teorema *Egregium*. Teorema de Bonnet. Cálculo de símbolos de Christoffel.| 
+35       | 14.05.2026   | Teorema *Egregium*. Teorema de Bonnet. Cálculo de símbolos de Christoffel.| 
 L4       | 14.05.2026   | Lista 04. |  [Lista 04](listas/Lista04.pdf){:target="_blank"} <br/> **Entrega: jueves 28 de mayo.**
+36       | 19.05.2026   | Vecindad tubular. Variaciones de curvas. Geodésicas. | 
 
 
 # Seminarios
